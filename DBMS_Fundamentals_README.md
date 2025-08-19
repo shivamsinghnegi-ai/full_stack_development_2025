@@ -365,14 +365,3 @@ Bank accounts & transactions, shopping carts & orders, school enrollments.
 | Learning Curve      | Low                     | Medium–High                     | Medium                             |
 
 ---
-
-## 11) Glossary (Fast Revision)
-- **DBMS:** Software that manages databases.
-- **Schema:** Structure/definition of data (tables, columns, constraints).
-- **Instance:** Actual data at a specific time.
-- **ACID:** Properties of reliable transactions.
-- **OLTP/OLAP:** Transactional vs analytical workloads.
-- **Data Independence:** Logical/physical changes with minimal app impact.
-- **Normalization:** Organizing tables to reduce redundancy (1NF–BCNF).
-
----
