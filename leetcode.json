@@ -2,7 +2,7 @@
   { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a013" }, "rank": 1, "studentName": "Jenil Savalia", "leetcodeURL": "https://leetcode.com/u/En6AUMb3D6/", "leetcodeID": "En6AUMb3D6", "leetcodeStatus": [{ "31st Dec": 5 }] },
   { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a043" }, "rank": 2, "studentName": "Shivam Singh Negi", "leetcodeURL": "https://leetcode.com/u/seevam123/", "leetcodeID": "seevam123", "leetcodeStatus": [{ "31st Dec": 5 }] },
   { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a007" }, "rank": 3, "studentName": "Dax Patel", "leetcodeURL": "https://leetcode.com/u/daxCG/", "leetcodeID": "daxCG", "leetcodeStatus": [{ "31st Dec": 4 }] },
-  { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a026" }, "rank": 4, "studentName": "Kalpan Kaneriya", "leetcodeURL": "https://leetcode.com/u/kalpan_2007/", "leetcodeID": "kalpan_2007", "leetcodeStatus": [{ "31st Dec": 4 }] },
+  { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a026" }, "rank": 4, "studentName": "Kalpan Kaneriya", "leetcodeURL": "https://leetcode.com/u/3kz/", "leetcodeID": "3kz", "leetcodeStatus": [{ "31st Dec": 4 }] },
   { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a036" }, "rank": 5, "studentName": "Mohit Soni", "leetcodeURL": "https://leetcode.com/u/Mohitsoni-cg/", "leetcodeID": "Mohitsoni-cg", "leetcodeStatus": [{ "31st Dec": 4 }] },
   { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a037" }, "rank": 6, "studentName": "Nagesh Jagtap", "leetcodeURL": "https://leetcode.com/u/Nageshjagtap/", "leetcodeID": "Nageshjagtap", "leetcodeStatus": [{ "31st Dec": 4 }] },
   { "_id": { "$oid": "66c9a1f001a1a1a1a1a1a004" }, "rank": 7, "studentName": "Arjun Divraniya", "leetcodeURL": "https://leetcode.com/u/Arjun_divraniya/", "leetcodeID": "Arjun_divraniya", "leetcodeStatus": [{ "31st Dec": 3 }] },
